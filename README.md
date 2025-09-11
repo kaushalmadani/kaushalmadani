@@ -16,8 +16,6 @@ Welcome to my GitHub profile! I’m passionate about building scalable systems, 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
-> Explore more in my pinned and recent repositories!
-
 ## 💬 Connect with Me
 
 - [LinkedIn](https://linkedin.com/in/kaushalmadani)
