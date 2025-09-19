@@ -26,4 +26,4 @@ When not coding, I just go on long drive.
 
 ---
 
-Thanks for stopping by! Feel free to reach out for collaboration.
+Thanks for stopping by! Feel free to contact for discussion.
